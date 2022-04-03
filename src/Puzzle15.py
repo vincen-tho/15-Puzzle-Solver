@@ -75,7 +75,7 @@ class TreeNode:
     def printSolution(self):
         for i in range(len(self.solution)):
             print(self.solution[i].direction)
-            for j in range (4):
+            for j in range(4):
                 print(self.solution[i].matrix[j])
 
 
