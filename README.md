@@ -29,9 +29,10 @@ Python library yang digunakan pada program ini sudah terinstall saat menginstall
 
 ### Cara menjalankan program
 
-Untuk menjalankan program dapa dilakukan dengan menjalankan file 15PuzzleSolver.exe yang terdapat didalam folder bin.
-
-Alternatif lain untuk menjalankan program:
+Untuk menjalankan program dapat dilakukan dengan menjalankan file **15PuzzleSolver.exe** yang terdapat didalam folder bin.  
+  
+  
+Alternatif lain untuk menjalankan program:  
 Program dapat dijalankan dengan melakukan run pada file gui.py yang akan menampilkan graphical user interface (GUI) dari program yang dibuat.
 Untuk menjalankan program dari command line, gunakan command:
 
@@ -45,7 +46,7 @@ Untuk menjalankan program pada console (tanpa GUI) dapat dilakukan dengan uncomm
   python Puzzle15.py
 ```
 
-Dianjurkan untuk menjalankan program dengan GUI karena memiliki fitur yang lebih lengkap.
+**Dianjurkan untuk menjalankan program dengan GUI karena memiliki fitur yang lebih lengkap.**
 
 ## About Me
 
